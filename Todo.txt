@@ -1,0 +1,8 @@
+- Sensor da mão
+- Temperatura e umidade
+- Acelerômetro
+- Modo sleep
+- Checar sensores a cada n segundos
+- Bateria
+- Feedback usando leds
+- 
